@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 ### Tecnologías  
 <div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
@@ -70,13 +68,15 @@ Here are some ideas to get you started:
 
 <br/>  
   
-<h1 align="center">Proyecto Actual</h1>
+<!--<h1 align="center">Proyecto Actual</h1>
 <h1 align="center">CopernicJobs</h1>
 
 ERP encargado de la bolsa de trabajo del instituto Utilizando Spring Boot Web, Thymeleaf, Lombok y Java, así como la implementación de Spring Boot Validations, Spring Boot Security y Spring Data JPA
 
 # Javadoc
 https://ovhek.github.io/copernicjobs.github.io/
+
+-->
 
 # Base de Datos
 https://github.com/Ovhek/CopernicJobs/blob/main/copernicjobs_06032023.sql
